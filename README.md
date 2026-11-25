@@ -2,8 +2,8 @@
 
 A curated index of GitHub projects that give AI agents reliable, programmatic ways to edit, process, transcribe, and synthesise audio — skills, CLIs, MCP servers, and podcast production pipelines.
 
-**Last Updated:** 2026-04-26
-**Entries:** 14
+**Last Updated:** 2026-11-25
+**Entries:** 15
 
 ---
 
@@ -77,6 +77,14 @@ MCP server for controlling REAPER DAW through Python scripts.
 ![Stars](https://img.shields.io/github/stars/wastee/REAPER-MCP-Skills-Example?style=flat) ![Last commit](https://img.shields.io/github/last-commit/wastee/REAPER-MCP-Skills-Example?style=flat) ![Language](https://img.shields.io/github/languages/top/wastee/REAPER-MCP-Skills-Example?style=flat)
 
 ⭐ 5 · Last updated: 2026-01-27 · [wastee/REAPER-MCP-Skills-Example](https://github.com/wastee/REAPER-MCP-Skills-Example)
+
+### valmera-mcp
+
+Remote MCP for editing uploaded video and its audio from an assistant. Inspect word timings, cut or restore ranges, adjust audio, and render a reviewable MP4.
+
+![Stars](https://img.shields.io/github/stars/ABO3SKRALMASAOODI/valmera-mcp?style=flat) ![Last commit](https://img.shields.io/github/last-commit/ABO3SKRALMASAOODI/valmera-mcp?style=flat) ![Language](https://img.shields.io/github/languages/top/ABO3SKRALMASAOODI/valmera-mcp?style=flat)
+
+⭐ 0 · Last updated: 2026-11-25 · [ABO3SKRALMASAOODI/valmera-mcp](https://github.com/ABO3SKRALMASAOODI/valmera-mcp)
 
 ### video-audio-mcp
 
