@@ -1,4 +1,40 @@
 {
+  "ABO3SKRALMASAOODI/valmera-mcp": {
+    "added_at": "2026-11-25",
+    "archived": false,
+    "categories": [
+      "MCPs"
+    ],
+    "description": "Remote MCP for editing uploaded video and its audio from an assistant. Inspect word timings, cut or restore ranges, adjust audio, and render a reviewable MP4.",
+    "full_name": "ABO3SKRALMASAOODI/valmera-mcp",
+    "html_url": "https://github.com/ABO3SKRALMASAOODI/valmera-mcp",
+    "language": "Python",
+    "license": "MIT",
+    "pushed_at": "2026-11-25T10:22:27Z",
+    "stargazers_count": 0,
+    "topics": [
+      "agent-skills",
+      "ai-agent",
+      "ai-video-editing",
+      "ai-video-editor",
+      "captions",
+      "claude",
+      "claude-code",
+      "claude-plugin",
+      "claude-video-editing",
+      "codex",
+      "cursor",
+      "ffmpeg",
+      "gemini-cli",
+      "gemini-cli-extension",
+      "mcp",
+      "mcp-server",
+      "model-context-protocol",
+      "transcription",
+      "video-editing",
+      "video-editor"
+    ]
+  },
   "Agents365-ai/video-podcast-maker": {
     "added_at": "2026-04-26",
     "archived": false,
